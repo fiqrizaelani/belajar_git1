@@ -3,11 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Belajar git</title>
+    <title>Document</title>
 </head>
 <body>
-    <h1>Belajar git pa rifki</h1>
-    <p>ini adalah belajar git</p>
-    <footer>saya pergi ke sekolah</footer>
+    
 </body>
 </html>
