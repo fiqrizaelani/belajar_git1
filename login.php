@@ -6,6 +6,10 @@
     <title>Document</title>
 </head>
 <body>
+<<<<<<< HEAD
     <h1>halaman login</h1>
+=======
+    <H1>HALAMAN LOGIN ADMIN</H1>
+>>>>>>> iflogin
 </body>
 </html>
