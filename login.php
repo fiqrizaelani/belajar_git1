@@ -10,6 +10,7 @@
     <h1>halaman login</h1>
 =======
     <H1>HALAMAN LOGIN ADMIN</H1>
+    <h2>belajar di sekolah</h2>
 >>>>>>> iflogin
 </body>
 </html>
